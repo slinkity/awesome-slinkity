@@ -1,5 +1,7 @@
 # Awesome Slinkity
 
+Videos, podcasts, articles, and other content about Slinkity that is awesome!
+
 ## Videos
 
 |Date|Show|
