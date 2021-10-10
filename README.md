@@ -16,6 +16,7 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 |Date|Show|Guest|
 |----|----|-----|
+|October 8, 2021|[Slinkity, a plugin to extend 11ty](https://www.twitch.tv/videos/1171002670)|Ben Holmes|
 |August 27, 2021|[React in Eleventy With Slinkity](https://www.youtube.com/watch?v=nuLAGrEQR80)|Ben Holmes|
 |July 27, 2021|[Processing Styles, Templates and React with Eleventy Custom Extensions](https://someantics.dev/eleventy-custom-extensions/)|Ben Holmes|
 
