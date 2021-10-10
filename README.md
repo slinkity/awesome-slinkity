@@ -4,6 +4,16 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 ## Videos
 
+### Slinkity Dev Logs
+
+|Date|Episode|
+|----|-------|
+|August 2, 2021|[Slinkity dev log 2 - Road to the cleanest CLI command](https://www.youtube.com/watch?v=auQPywgzdpY)|
+|August 2, 2021|[Slinkity dev log 1 - Thanks everyone!](https://www.youtube.com/watch?v=G0hDOqpkuVg)|
+|June 18, 2021|[Introducing Slinkity - the SSG that grows with you (powered by 11ty)](https://www.youtube.com/watch?v=fiqhXjatC7g)|
+
+### Streams
+
 |Date|Show|Guest|
 |----|----|-----|
 |August 27, 2021|[React in Eleventy With Slinkity](https://www.youtube.com/watch?v=nuLAGrEQR80)|Ben Holmes|
