@@ -8,6 +8,7 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 |Date|Episode|
 |----|-------|
+|October 18, 2021|[Slinkity Dev Log 8 - v0.2.0 released and SSR](https://twitter.com/slinkitydotdev/status/1450106906920501253)|
 |October 11, 2021|[Slinkity Dev Log 7 - Vite SSR finalization](https://twitter.com/slinkitydotdev/status/1447560284781125633)|
 |October 4, 2021|[Slinkity Dev Log 6 - Contributing and Architecture READMEs](https://twitter.com/slinkitydotdev/status/1445207968425955334)|
 |September 27, 2021|[Slinkity Dev Log 5 - Vite SSR in progress](https://twitter.com/slinkitydotdev/status/1442640906004357121)|
@@ -45,3 +46,9 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 |October 20, 2021|[Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich](https://www.smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/)|Ben Holmes|
 |August 8, 2021|[A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)|Anthony Campolo|
 |July 26, 2021|[Slinkity](https://css-tricks.com/slinkity/)|Chris Coyier|
+
+## 💾 Examples
+
+|Platform|Author|
+|--------|------|
+|[Stackblitz](https://stackblitz.com/edit/node-v8mqfv)|Anthony Campolo|
