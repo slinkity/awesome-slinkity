@@ -53,4 +53,5 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 |Platform|Author|
 |--------|------|
+|[Stackblitz](https://node.new/slinkity)|Tomek Sułkowski|
 |[Stackblitz](https://stackblitz.com/edit/node-v8mqfv)|Anthony Campolo|
