@@ -28,6 +28,7 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 |Date|Show|Guest|
 |----|----|-----|
+|October 29, 2021|[Bringing Dynamic Content to Static 11ty Sites with Slinkity and GraphQL](https://www.youtube.com/watch?v=Od-xAgNaDdY)|Ben Homles|
 |October 11, 2021|[Unlock component-driven web pages with Slinkity](https://www.youtube.com/watch?v=DqUGJyuX8m0)|Ben Holmes|
 |August 27, 2021|[React in Eleventy With Slinkity](https://www.youtube.com/watch?v=nuLAGrEQR80)|Ben Holmes|
 |August 11, 2021|[Simply a Summary of Surprisingly Sensational Slinkity](https://www.youtube.com/watch?v=mRO0SxGI3pM)|Ben Holmes|
