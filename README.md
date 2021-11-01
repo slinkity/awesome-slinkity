@@ -2,6 +2,18 @@
 
 Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
+## Outline
+
+* [Videos](https://github.com/slinkity/awesome-slinkity#-videos)
+  * [Slinkity Dev Logs](https://github.com/slinkity/awesome-slinkity#slinkity-dev-logs)
+  * [Talks](https://github.com/slinkity/awesome-slinkity#talks)
+  * [Streams](https://github.com/slinkity/awesome-slinkity#streams)
+* [Podcasts](https://github.com/slinkity/awesome-slinkity#-podcasts)
+* [Articles](https://github.com/slinkity/awesome-slinkity#%EF%B8%8F-articles)
+* [Examples](https://github.com/slinkity/awesome-slinkity#-examples)
+  * [Live Projects](https://github.com/slinkity/awesome-slinkity#live-projects)
+  * [Repositories](https://github.com/slinkity/awesome-slinkity#repositories)
+
 ## 📺 Videos
 
 ### Slinkity Dev Logs
