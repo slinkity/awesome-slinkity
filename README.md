@@ -51,7 +51,17 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 ## 💾 Examples
 
+### Live Projects
+
 |Platform|Author|
 |--------|------|
 |[Stackblitz](https://node.new/slinkity)|Tomek Sułkowski|
 |[Stackblitz](https://stackblitz.com/edit/node-v8mqfv)|Anthony Campolo|
+
+### Repositories
+
+|Repo|Author|
+|----|------|
+|[Spookity](https://github.com/holben888/spookity)|Ben Holmes|
+|[Eleventy, Vite and JAM Sandwich](https://github.com/Holben888/eleventy-vite-jam-sandwich)|Ben Holmes|
+|[A First Look at Slinkity](https://github.com/ajcwebdev/ajcwebdev-slinkity)|Anthony Campolo|
