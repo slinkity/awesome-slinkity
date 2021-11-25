@@ -20,15 +20,19 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 |Date|Episode|
 |----|-------|
-|October 18, 2021|[Slinkity Dev Log 8 - v0.2.0 released and SSR](https://twitter.com/slinkitydotdev/status/1450106906920501253)|
-|October 11, 2021|[Slinkity Dev Log 7 - Vite SSR finalization](https://twitter.com/slinkitydotdev/status/1447560284781125633)|
+|November 15, 2021|[Slinkity Dev Log 12 - New Shortcode Prop Syntax](https://twitter.com/slinkitydotdev/status/1460269997754920961)|
+|November 8, 2021|[Slinkity Dev Log 11 - Renderers and Svelte Support in the Works](https://twitter.com/slinkitydotdev/status/1457731372278243329)|
+|November 1, 2021|[Slinkity Dev Log 10 - Docs for Config Options](https://twitter.com/slinkitydotdev/status/1455177730367139848)|
+|October 25, 2021|[Slinkity Dev Log 9 - Vite Import Aliases](https://twitter.com/slinkitydotdev/status/1452639538665435138)|
+|October 18, 2021|[Slinkity Dev Log 8 - v0.2.0 Released and SSR](https://twitter.com/slinkitydotdev/status/1450106906920501253)|
+|October 11, 2021|[Slinkity Dev Log 7 - Vite SSR Finalization](https://twitter.com/slinkitydotdev/status/1447560284781125633)|
 |October 4, 2021|[Slinkity Dev Log 6 - Contributing and Architecture READMEs](https://twitter.com/slinkitydotdev/status/1445207968425955334)|
-|September 27, 2021|[Slinkity Dev Log 5 - Vite SSR in progress](https://twitter.com/slinkitydotdev/status/1442640906004357121)|
-|September 13, 2021|[Slinkity Dev Log 4 - CSS module support](https://twitter.com/slinkitydotdev/status/1437413217404399619)|
-|August 16, 2021|[Slinkity Dev Log 3 - CLI rewrite](https://twitter.com/slinkitydotdev/status/1427444542337425410)|
-|August 2, 2021|[Slinkity Dev Log 2 - Road to the cleanest CLI command](https://www.youtube.com/watch?v=auQPywgzdpY)|
-|August 2, 2021|[Slinkity Dev Log 1 - Thanks everyone!](https://www.youtube.com/watch?v=G0hDOqpkuVg)|
-|June 18, 2021|[Introducing Slinkity - the SSG that grows with you (powered by 11ty)](https://www.youtube.com/watch?v=fiqhXjatC7g)|
+|September 27, 2021|[Slinkity Dev Log 5 - Vite SSR in Progress](https://twitter.com/slinkitydotdev/status/1442640906004357121)|
+|September 13, 2021|[Slinkity Dev Log 4 - CSS Module Support](https://twitter.com/slinkitydotdev/status/1437413217404399619)|
+|August 16, 2021|[Slinkity Dev Log 3 - CLI Rewrite](https://twitter.com/slinkitydotdev/status/1427444542337425410)|
+|August 2, 2021|[Slinkity Dev Log 2 - Road to the Cleanest CLI Command](https://www.youtube.com/watch?v=auQPywgzdpY)|
+|August 2, 2021|[Slinkity Dev Log 1 - Thanks Everyone!](https://www.youtube.com/watch?v=G0hDOqpkuVg)|
+|June 18, 2021|[Introducing Slinkity - The SSG that Grows with You (powered by 11ty)](https://www.youtube.com/watch?v=fiqhXjatC7g)|
 
 ### Talks
 
