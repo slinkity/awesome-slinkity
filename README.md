@@ -51,7 +51,7 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 |Date|Pod|Guest|
 |----|---|-----|
-|November 1, 2021|[Slinkity](https://fsjam.org/episodes/episode-49-slinkity-with-ben-holmes?preview=true)|Ben Holmes|
+|November 1, 2021|[Slinkity](https://fsjam.org/episodes/episode-49-slinkity-with-ben-holmes)|Ben Holmes|
 
 ## ✏️ Articles
 
