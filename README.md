@@ -61,6 +61,7 @@ Videos, podcasts, articles, and other content about Slinkity that is awesome!
 
 |Date|Article|Author|
 |----|-------|------|
+|November 12, 2021|[Ship JavaScript where it counts with Vite + Partial Hydration](https://www.netlify.com/blog/2021/11/12/ship-javascript-where-it-counts-with-vite-partial-hydration/)|Ben Holmes|
 |October 21, 2021|[Quick experiment with the Slinkity 11ty plugin](https://bryanlrobinson.com/blog/quick-experiment-with-the-slinkity-11ty-plugin/)|Bryan Robinson|
 |October 20, 2021|[Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich](https://www.smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/)|Ben Holmes|
 |August 8, 2021|[A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)|Anthony Campolo|
