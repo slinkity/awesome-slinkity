@@ -1,4 +1,6 @@
-![Slinkity logo with super cool shades](./slinkity-awesome.svg)
+<p align="center">
+  <img width="300" src="./slinkity-awesome.svg" alt="Slinkity logo with super cool shades">
+</p>
 
 # Awesome Slinkity
 
