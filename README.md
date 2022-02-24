@@ -41,6 +41,7 @@ Videos, podcasts, articles, and other awesome content about Slinkity!
 
 | Date       | Title                                                                                                                                                                | Show              |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 2022-02-23 | [Slinkity with Ben Holmes](https://podrocket.logrocket.com/slinkity)                                                                                                 | Podrocket         |
 | 2022-01-27 | [Islands Architecture with Ben Holmes of Slinkity](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-95-islands-architecture-with-ben-holmes-of-slinkity/) | Jamstack Radio    |
 | 2022-01-11 | [Simplifying Slinkity with Anthony Campolo](https://javascriptjabber.com/simplifying-slinkity-with-anthony-campolo)                                                  | JavaScript Jabber |
 | 2021-11-01 | [Slinkity with Ben Holmes](https://fsjam.org/episodes/episode-49-slinkity-with-ben-holmes)                                                                           | FSJam             |
